@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
     int arr[] = {21, 4, 100, 123, 12, 1, 203, 149, 45, 96, 28, 30};
+int main()
     int size = sizeof(arr)/sizeof(int);
     int swap;
     cout<<"Array = ";
