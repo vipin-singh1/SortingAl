@@ -1,3 +1,3 @@
 # SortingAl
 
-Contains popular sorting algorithms in C language
+Contains popular sorting algorithms in C++ language
